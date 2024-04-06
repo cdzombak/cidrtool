@@ -1,0 +1,8 @@
+-s dir
+--name cidrtool
+--description "A simple command line tool to manipulate CIDR blocks"
+--url "https://github.com/cdzombak/cidrtool"
+--maintainer "Chris Dzombak <https://www.dzombak.com>"
+--license "LGPL-3.0"
+--depends python3
+--architecture all
